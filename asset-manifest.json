@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Task8/static/css/main.288228f4.css",
+    "main.js": "/Task8/static/js/main.9b60614c.js",
+    "static/media/banner1.jpg": "/Task8/static/media/banner1.a2451bd073cf95da5488.jpg",
+    "static/media/banner3.jpg": "/Task8/static/media/banner3.53700779a6bfa5a82353.jpg",
+    "static/media/chicken.jpg": "/Task8/static/media/chicken.11ab1a07e8842512cff1.jpg",
+    "static/media/banner2.jpg": "/Task8/static/media/banner2.0345fc37cfb10d2f841f.jpg",
+    "static/media/biriyani.jpg": "/Task8/static/media/biriyani.9231243bbda70d6e3aea.jpg",
+    "static/media/gulab-jamun.jpg": "/Task8/static/media/gulab-jamun.442ee703a8cc63e20453.jpg",
+    "static/media/gulfi.jpg": "/Task8/static/media/gulfi.b68e2801b83acd4e0546.jpg",
+    "static/media/fish-fry.jpg": "/Task8/static/media/fish-fry.a2f45d3bed5e0e1baa16.jpg",
+    "static/media/ice-cream.jpg": "/Task8/static/media/ice-cream.df65340062a317cab249.jpg",
+    "static/media/logo.png": "/Task8/static/media/logo.5066cedf8178960f17bd.png",
+    "index.html": "/Task8/index.html",
+    "main.288228f4.css.map": "/Task8/static/css/main.288228f4.css.map",
+    "main.9b60614c.js.map": "/Task8/static/js/main.9b60614c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288228f4.css",
+    "static/js/main.9b60614c.js"
+  ]
+}
